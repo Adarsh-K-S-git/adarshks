@@ -14,7 +14,7 @@ I’m a **Robotics and Automation** enthusiast with a passion for pushing the bo
 - **Creative 3D Modeling & Editing**: Blender, Premiere Pro, Photoshop
 - **Platforms**: GitHub, Arduino IDE, Jupyter Notebook, and more
 
-### ⚡ Always in motion:
+###⚡ Always in motion:
 Whether it’s learning new tech, building robots, or writing cleaner code, I’m constantly leveling up. My interests span from **space exploration** to **machine learning**, and I’m always on the lookout for exciting collaborations and innovative projects.
 
 Let’s connect, create, and conquer the world of robotics together! 🚀
